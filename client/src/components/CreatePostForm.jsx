@@ -1,4 +1,5 @@
 function CreatePostForm() {
+  
   return (
     <form className="post-form">
       <h1>Create Post Form</h1>
@@ -14,6 +15,7 @@ function CreatePostForm() {
           />
         </label>
       </div>
+
       <div className="input-container">
         <label>
           Content

@@ -1,4 +1,5 @@
 function EditPostForm() {
+  
   return (
     <form className="post-form">
       <h1>Edit Post Form</h1>
@@ -14,6 +15,7 @@ function EditPostForm() {
           />
         </label>
       </div>
+
       <div className="input-container">
         <label>
           Content
